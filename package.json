@@ -3,7 +3,6 @@
   "author": {
     "name": "jjp222"
   },
-  "homepage": "https://github.com/lgrignon",
   "version": "1.0.0",
   "description": "apply-manage (webpack 2 + TypeScript 2 + Babel example)",
   "keywords": [
